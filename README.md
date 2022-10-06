@@ -21,11 +21,11 @@ Design preview for the QR code component coding challenge - Desktop Overview
 ![Design preview for the QR code component coding challenge - Desktop Overview](./design/desktop-preview.jpg)
 Design preview for the QR code component coding challenge - Mobile Overview
 ![Design preview for the QR code component coding challenge - Mobile Overview](./design/mobile-design.jpg)
-Challenge Overview
+QR code component coding challenge - Overview
 ![Challenge Overview](./images/screenshot.png)
-Samsung Galaxy A51/71 Overview
+QR code component coding challenge - Samsung Galaxy A51/71 Overview
 ![Samsung Galaxy A51/71 Overview](./images/screenshot-samsung.png)
-Iphone-6-7-8-plus.png Overview
+QR code component coding challenge - Iphone-6-7-8-plus.png Overview
 ![Iphone-6-7-8-plus.png Overview](./images/screenshot-iphone-6-7-8-plus.png)
 
 ### Links
