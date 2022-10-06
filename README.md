@@ -15,17 +15,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+Design for the QR code component coding challenge
 ![Design for the QR code component coding challenge](./design/desktop-design.jpg)
+Design preview for the QR code component coding challenge - Desktop Overview
 ![Design preview for the QR code component coding challenge - Desktop Overview](./design/desktop-preview.jpg)
+Design preview for the QR code component coding challenge - Mobile Overview
 ![Design preview for the QR code component coding challenge - Mobile Overview](./design/mobile-design.jpg)
+Challenge Overview
 ![Challenge Overview](./images/screenshot.png)
+Samsung Galaxy A51/71 Overview
 ![Samsung Galaxy A51/71 Overview](./images/screenshot-samsung.png)
+Iphone-6-7-8-plus.png Overview
 ![Iphone-6-7-8-plus.png Overview](./images/screenshot-iphone-6-7-8-plus.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/LariosTorres/QR-Card.git)
+- Live Site URL: [Add live site URL here](https://lariostorres.github.io/QR-Card/)
 
 ## My process
 
@@ -37,6 +43,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jose de Jesus Larios Torres](https://www.your-site.com)
+- Frontend Mentor - [@LariosTorres](https://www.frontendmentor.io/profile/LariosTorres)
