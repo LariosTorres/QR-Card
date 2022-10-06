@@ -18,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Design for the QR code component coding challenge](./design/desktop-design.jpg)
 ![Design preview for the QR code component coding challenge - Desktop Overview](./design/desktop-preview.jpg)
 ![Design preview for the QR code component coding challenge - Mobile Overview](./design/mobile-design.jpg)
-![Challenge Overview](./screenshot.png)
-![Samsung Galaxy A51/71 Overview](./screenshot-samsung.png)screenshot-iphone-6-7-8-plus.png
-![Iphone-6-7-8-plus.png Overview](./screenshot-iphone-6-7-8-plus.png)
+![Challenge Overview](./images/screenshot.png)
+![Samsung Galaxy A51/71 Overview](./images/screenshot-samsung.png)
+![Iphone-6-7-8-plus.png Overview](./images/screenshot-iphone-6-7-8-plus.png)
 
 ### Links
 
